@@ -21,7 +21,7 @@
     <DebugType>full</DebugType>
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
-    <OutputPath>C:\GGC_Systems\vb.net\RetMgySys\</OutputPath>
+    <OutputPath>..\..\..\..\..\GGC_Systems\vb.net\RetMgtSys\</OutputPath>
     <DocumentationFile>ggcRetailParams.xml</DocumentationFile>
     <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
     <RegisterForComInterop>false</RegisterForComInterop>
@@ -39,7 +39,7 @@
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup>
-    <OptionExplicit>On</OptionExplicit>
+    <OptionExplicit>Off</OptionExplicit>
   </PropertyGroup>
   <PropertyGroup>
     <OptionCompare>Binary</OptionCompare>
@@ -82,9 +82,11 @@
     <Compile Include="clsBanks.vb" />
     <Compile Include="clsBin.vb" />
     <Compile Include="clsCompanyAffiliates.vb" />
+    <Compile Include="clsDeliveryServiceHisParam.vb" />
     <Compile Include="clsDiscountCards.vb" />
     <Compile Include="clsInvType.vb" />
     <Compile Include="clsMachine.vb" />
+    <Compile Include="clsDeliveryServiceParam.vb" />
     <Compile Include="clsMeasure.vb" />
     <Compile Include="clsProductCategory.vb" />
     <Compile Include="clsSection.vb" />
@@ -169,8 +171,8 @@
     <None Include="Resources\mainbackground.png" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\ggcAppDriver\ggcAppDriver.vbproj">
-      <Project>{6FA248F3-A2BA-43DF-BE98-032E11714DB5}</Project>
+    <ProjectReference Include="..\ggcAppDriver\ggcAppDriver.vbproj">
+      <Project>{6fa248f3-a2ba-43df-be98-032e11714db5}</Project>
       <Name>ggcAppDriver</Name>
     </ProjectReference>
   </ItemGroup>

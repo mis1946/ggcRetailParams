@@ -1,142 +1,25 @@
-D:\GMC SEG Folder\VBNET\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmAddOns.resources
-D:\GMC SEG Folder\VBNET\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmComboItem.resources
-D:\GMC SEG Folder\VBNET\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmPromoDiscount.resources
-D:\GMC SEG Folder\VBNET\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.Resources.resources
-D:\GMC SEG Folder\VBNET\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.vbproj.GenerateResource.Cache
-D:\GMC SEG Folder\VBNET\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.dll
-D:\GMC SEG Folder\VBNET\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.xml
-D:\GMC SEG Folder\VBNET\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.pdb
-\\fs2\seg\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmAddOns.resources
-\\fs2\seg\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmComboItem.resources
-\\fs2\seg\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmPromoDiscount.resources
-\\fs2\seg\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.Resources.resources
-\\fs2\seg\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.vbproj.GenerateResource.Cache
-\\fs2\seg\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.vbprojResolveAssemblyReference.cache
-\\fs2\seg\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.dll
-\\fs2\seg\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.xml
-\\fs2\seg\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.pdb
-D:\Vb.Net Temp\Lender\Class\ggcRetailParams.dll
-D:\Vb.Net Temp\Lender\Class\ggcRetailParams.pdb
-D:\Vb.Net Temp\Lender\Class\ggcRetailParams.xml
-X:\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.vbprojResolveAssemblyReference.cache
-X:\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmAddOns.resources
-X:\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmComboItem.resources
-X:\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmPromoDiscount.resources
-X:\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.Resources.resources
-X:\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.vbproj.GenerateResource.Cache
-X:\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.dll
-X:\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.xml
-X:\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.pdb
-\\192.168.10.220\seg\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmAddOns.resources
-\\192.168.10.220\seg\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmComboItem.resources
-\\192.168.10.220\seg\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmPromoDiscount.resources
-\\192.168.10.220\seg\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.Resources.resources
-\\192.168.10.220\seg\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.vbproj.GenerateResource.Cache
-\\192.168.10.220\seg\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.dll
-\\192.168.10.220\seg\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.xml
-\\192.168.10.220\seg\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.pdb
-\\192.168.10.220\seg\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.vbprojResolveAssemblyReference.cache
-Z:\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.vbprojResolveAssemblyReference.cache
-Z:\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmAddOns.resources
-Z:\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmComboItem.resources
-Z:\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmPromoDiscount.resources
-Z:\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.Resources.resources
-Z:\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.vbproj.GenerateResource.Cache
-Z:\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.dll
-Z:\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.xml
-Z:\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.pdb
-\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.vbprojResolveAssemblyReference.cache
-\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmAddOns.resources
-\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmComboItem.resources
-\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmPromoDiscount.resources
-\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.Resources.resources
-\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.vbproj.GenerateResource.Cache
-\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.dll
-\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.xml
-\\192.168.10.221\seg\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.pdb
-Y:\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.vbprojResolveAssemblyReference.cache
-Y:\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmAddOns.resources
-Y:\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmComboItem.resources
-Y:\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmPromoDiscount.resources
-Y:\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.Resources.resources
-Y:\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.vbproj.GenerateResource.Cache
-Y:\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.dll
-Y:\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.xml
-Y:\GMC SEG Folder\vb.net\My Applications\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.pdb
-Y:\PEDRITOS POS\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.vbprojResolveAssemblyReference.cache
-Y:\PEDRITOS POS\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmAddOns.resources
-Y:\PEDRITOS POS\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmComboItem.resources
-Y:\PEDRITOS POS\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmPromoDiscount.resources
-Y:\PEDRITOS POS\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.Resources.resources
-Y:\PEDRITOS POS\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.vbproj.GenerateResource.Cache
-Y:\PEDRITOS POS\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.dll
-Y:\PEDRITOS POS\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.xml
-Y:\PEDRITOS POS\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.pdb
-C:\GGC_Systems\vb.net\ggcRetailParams.dll
-C:\GGC_Systems\vb.net\ggcRetailParams.pdb
-C:\GGC_Systems\vb.net\ggcRetailParams.xml
-D:\PEDRITOS POS\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.vbprojResolveAssemblyReference.cache
-D:\PEDRITOS POS\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmAddOns.resources
-D:\PEDRITOS POS\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmComboItem.resources
-D:\PEDRITOS POS\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmPromoDiscount.resources
-D:\PEDRITOS POS\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.Resources.resources
-D:\PEDRITOS POS\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.vbproj.GenerateResource.Cache
-D:\PEDRITOS POS\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.dll
-D:\PEDRITOS POS\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.xml
-D:\PEDRITOS POS\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.pdb
-Y:\POS\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.vbprojResolveAssemblyReference.cache
-Y:\POS\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmAddOns.resources
-Y:\POS\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmComboItem.resources
-Y:\POS\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmPromoDiscount.resources
-Y:\POS\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.Resources.resources
-Y:\POS\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.vbproj.GenerateResource.Cache
-Y:\POS\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.dll
-Y:\POS\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.xml
-Y:\POS\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.pdb
-D:\POS\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.vbproj.AssemblyReference.cache
-D:\POS\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmAddOns.resources
-D:\POS\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmComboItem.resources
-D:\POS\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmPromoDiscount.resources
-D:\POS\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.Resources.resources
-D:\POS\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.vbproj.GenerateResource.cache
-D:\POS\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.vbproj.CoreCompileInputs.cache
-D:\POS\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.vbproj.CopyComplete
-D:\POS\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.dll
-D:\POS\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.xml
-D:\POS\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.pdb
-D:\POSold\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.vbproj.AssemblyReference.cache
-D:\POSold\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmAddOns.resources
-D:\POSold\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmComboItem.resources
-D:\POSold\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmPromoDiscount.resources
-D:\POSold\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.Resources.resources
-D:\POSold\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.vbproj.GenerateResource.cache
-D:\POSold\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.vbproj.CoreCompileInputs.cache
-D:\POSold\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.vbproj.CopyComplete
-D:\POSold\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.dll
-D:\POSold\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.xml
-D:\POSold\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.pdb
-D:\LP POS\POSold\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.vbproj.AssemblyReference.cache
-D:\LP POS\POSold\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmAddOns.resources
-D:\LP POS\POSold\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmComboItem.resources
-D:\LP POS\POSold\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmPromoDiscount.resources
-D:\LP POS\POSold\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.Resources.resources
-D:\LP POS\POSold\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.vbproj.GenerateResource.cache
-D:\LP POS\POSold\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.vbproj.CoreCompileInputs.cache
-D:\LP POS\POSold\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.vbproj.CopyComplete
-D:\LP POS\POSold\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.dll
-D:\LP POS\POSold\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.xml
-D:\LP POS\POSold\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.pdb
-C:\GGC_Systems\vb.net\RetMgySys\ggcRetailParams.dll
-C:\GGC_Systems\vb.net\RetMgySys\ggcRetailParams.pdb
-C:\GGC_Systems\vb.net\RetMgySys\ggcRetailParams.xml
-D:\Guanzon\GMC SEG Folder\vb.net\TJ\POSold\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.vbproj.AssemblyReference.cache
-D:\Guanzon\GMC SEG Folder\vb.net\TJ\POSold\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmAddOns.resources
-D:\Guanzon\GMC SEG Folder\vb.net\TJ\POSold\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmComboItem.resources
-D:\Guanzon\GMC SEG Folder\vb.net\TJ\POSold\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.frmPromoDiscount.resources
-D:\Guanzon\GMC SEG Folder\vb.net\TJ\POSold\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.Resources.resources
-D:\Guanzon\GMC SEG Folder\vb.net\TJ\POSold\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.vbproj.GenerateResource.cache
-D:\Guanzon\GMC SEG Folder\vb.net\TJ\POSold\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.vbproj.CoreCompileInputs.cache
-D:\Guanzon\GMC SEG Folder\vb.net\TJ\POSold\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.vbproj.CopyComplete
-D:\Guanzon\GMC SEG Folder\vb.net\TJ\POSold\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.dll
-D:\Guanzon\GMC SEG Folder\vb.net\TJ\POSold\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.xml
-D:\Guanzon\GMC SEG Folder\vb.net\TJ\POSold\ggcRetailParams\ggcRetailParams\obj\Debug\ggcRetailParams.pdb
+C:\Users\User\source\repos\ggcRetailParams\obj\Debug\ggcRetailParams.vbproj.AssemblyReference.cache
+C:\Users\User\source\repos\ggcRetailParams\obj\Debug\ggcRetailParams.frmAddOns.resources
+C:\Users\User\source\repos\ggcRetailParams\obj\Debug\ggcRetailParams.frmComboItem.resources
+C:\Users\User\source\repos\ggcRetailParams\obj\Debug\ggcRetailParams.frmPromoDiscount.resources
+C:\Users\User\source\repos\ggcRetailParams\obj\Debug\ggcRetailParams.Resources.resources
+C:\Users\User\source\repos\ggcRetailParams\obj\Debug\ggcRetailParams.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\ggcRetailParams\obj\Debug\ggcRetailParams.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ggcRetailParams\obj\Debug\ggcRetailParams.vbproj.CopyComplete
+C:\Users\User\source\repos\ggcRetailParams\obj\Debug\ggcRetailParams.dll
+C:\Users\User\source\repos\ggcRetailParams\obj\Debug\ggcRetailParams.xml
+C:\Users\User\source\repos\ggcRetailParams\obj\Debug\ggcRetailParams.pdb
+C:\GGC_Systems\vb.net\RetMgtSys\ggcRetailParams.dll
+C:\GGC_Systems\vb.net\RetMgtSys\ggcRetailParams.pdb
+C:\GGC_Systems\vb.net\RetMgtSys\ggcRetailParams.xml
+C:\Users\Maynard\Documents\GitHub\ggcRetailParams\obj\Debug\ggcRetailParams.vbproj.AssemblyReference.cache
+C:\Users\Maynard\Documents\GitHub\ggcRetailParams\obj\Debug\ggcRetailParams.frmAddOns.resources
+C:\Users\Maynard\Documents\GitHub\ggcRetailParams\obj\Debug\ggcRetailParams.frmComboItem.resources
+C:\Users\Maynard\Documents\GitHub\ggcRetailParams\obj\Debug\ggcRetailParams.frmPromoDiscount.resources
+C:\Users\Maynard\Documents\GitHub\ggcRetailParams\obj\Debug\ggcRetailParams.Resources.resources
+C:\Users\Maynard\Documents\GitHub\ggcRetailParams\obj\Debug\ggcRetailParams.vbproj.GenerateResource.cache
+C:\Users\Maynard\Documents\GitHub\ggcRetailParams\obj\Debug\ggcRetailParams.vbproj.CoreCompileInputs.cache
+C:\Users\Maynard\Documents\GitHub\ggcRetailParams\obj\Debug\ggcRetailParams.vbproj.CopyComplete
+C:\Users\Maynard\Documents\GitHub\ggcRetailParams\obj\Debug\ggcRetailParams.dll
+C:\Users\Maynard\Documents\GitHub\ggcRetailParams\obj\Debug\ggcRetailParams.xml
+C:\Users\Maynard\Documents\GitHub\ggcRetailParams\obj\Debug\ggcRetailParams.pdb
